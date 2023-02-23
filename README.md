@@ -49,9 +49,5 @@ This data was scraped from IMDb.
 
 
 #### Questions
-This project seeks to answer the following questions:
-- What are the most popular and least popular movies?
-- What are the most profitable and least profitable movies?
+This analysis seeks to answer the following question:
 - What are the correlations between revenue, budget and profit?
-- How did the amount of produced movies changed over time?
-- Which month released the highest number Of movies In all Of the years?
