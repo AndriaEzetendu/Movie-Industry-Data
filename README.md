@@ -1,10 +1,12 @@
 ## Project: Investigate Movie Industry Data
 
 ### Content
+
 - Introduction
 - Data Cleaning
-- Exploratory Data Analysis
+- Exploratory Data Analysis - Questions & Answers
 - Conclusions
+- Limitations
 
 ### Introduction
 
@@ -24,7 +26,7 @@ In this project, I will be investigating TMDb Movies Dataset containing informat
 >
 > homepage - A link to the homepage of the movie..
 >
-> id - This is infact the movie_id as in the first dataset.
+> id - This is in fact the movie_id as in the first dataset.
 >
 > keywords - The keywords or tags related to the movie.
 >
@@ -53,10 +55,12 @@ In this project, I will be investigating TMDb Movies Dataset containing informat
 > revenue_adj - shows the revenue associated movie in terms of 2010 dollars.
 
 #### Acknowledgements
+
 This dataset was sourced from Kaggle.
 
 
 #### Questions
+
 This analysis seeks to answer the following questions:
 - In which year were the most movies released? How has the quantity of movies produced evolved over time?
 - What are the most and least popular movies?
