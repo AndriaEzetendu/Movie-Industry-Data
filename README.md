@@ -10,7 +10,7 @@
 
 ### Introduction
 
-In this project, I will be investigating TMDb Movies Dataset containing information about 10k+ movies. This dataset was sourced from Kaggle. There are 10,866 rows and 21 columns in the dataset from 1960-2015. Each movie has the following attributes:
+In this project, I conducted an exploratory data analysis on the TMDb Movies Dataset, which contains information about over 10,000 movies from 1960 to 2015. The dataset was sourced from Kaggle and consists of 10,866 rows and 21 columns. To carry out the analysis, I utilized the Pandas, Numpy, Seaborn, and Matplotlib Python libraries. Each movie has the following attributes:
 
 > movie_id - A unique identifier for each movie.
 >
